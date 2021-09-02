@@ -32,5 +32,7 @@ La aplicación es creada con Android Studio a continuación nombraremos las clas
 
 4ºStockContract:  Es donde se define el esquema de la base de datos, como los nombres de las tablas y columnas de la base de datos.
 
+![g1](https://user-images.githubusercontent.com/89985647/131881367-6da8798d-c8ce-4447-b6e7-9ae5db45c7e7.PNG)
+![g2](https://user-images.githubusercontent.com/89985647/131881384-f7a5a521-efc4-4e7a-b4d5-8352749320a8.PNG)
 
 
