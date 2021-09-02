@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Gelado</string>
+    <string name="sale_button">Venta</string>
+    <string name="new_product">Añadir nuevo item</string>
+    <string name="hint_email_address">heladeriadr@gmail.com</string>
+    <string name="supplier_email_title">proveedor E-mail Address</string>
+    <string name="supplier_phone_hint">+34 000-000-000</string>
+    <string name="supplier_phone_title">Telefono proveedor</string>
+    <string name="supplier_name_hint">Helado proveedor </string>
+    <string name="supplier_name_title">Nombre proveedor</string>
+    <string name="quantity_title">Cantidad</string>
+    <string name="price_title">Precio</string>
+    <string name="product_name_title">Nombre producto</string>
+    <string name="currency_details">€ / item</string>
+    <string name="action_save">Guardar item</string>
+    <string name="editor_activity_title_new_item">Añadir nuevo item</string>
+    <string name="editor_activity_title_edit_item">Editar item</string>
+    <string name="menu_order_item">Pedir mas</string>
+    <string name="menu_delete_item">Borrar item</string>
+    <string name="menu_delete_all_data">Borrar todos los datos</string>
+    <string name="phone">Telefono</string>
+    <string name="email">E-mail</string>
+    <string name="order_message">Puedes realizar un pedido por Telefono o E-mail</string>
+    <string name="delete_message">¿Estas seguro de querer borrarlo?</string>
+    <string name="delete">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="empty_list_hint">Añadir ojbetos al inventario</string>
+    <string name="action_add_dummy_data">Añadir datos</string>
+    <string name="select_image">Seleccionar imagen</string>
+    <string name="image">Imagen</string>
+    <string name="unsaved_changes_dialog_msg">Hay cambios sin guardar, ¿Desea continuar?</string>
+    <string name="discard">Descartar</string>
+    <string name="manual">manual</string>
+    <string name="back">Atrás</string>
+    <string name="manual_button">manual</string>
+    <string name="keep_editing">Guardar edicion</string>
+</resources>
